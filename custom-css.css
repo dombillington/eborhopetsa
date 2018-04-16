@@ -1,0 +1,304 @@
+.qbutton.small {
+    padding: 0;
+}
+
+.q_progress_bar .progress_title_holder {
+    margin: 0 0 9px;
+}
+
+.qode_video_box .qode_video_image .qode_video_box_button {
+    background-color: #28395b;
+}
+
+.qode_video_box .qode_video_image:hover .qode_video_box_button {
+    background-color: #2e4063;
+}
+
+.qode_video_box .qode_video_image:hover .qode_video_box_button_arrow, .qode_video_box .qode_video_image .qode_video_box_button_arrow {
+    border-left-color: #fff;
+}
+
+h5.qode-tfs-author-name {
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+}
+
+.qode-twitter-feed-shortcode .qode-tfs-inner .qode-tfs-info {
+    font-family: 'Roboto Slab', serif;
+    font-size: 13px;
+}
+
+.testimonials_c_holder .testimonial_content_inner {
+    background: #3c4c6d;
+    padding: 53px 45px 57px;
+}
+
+.testimonial_title_holder h5 {
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_rating_holder {
+    color: #8a94a7;
+    margin: 16px 0 20px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_image_holder {
+    margin-bottom: 25px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_author {
+    margin-top: 19px;
+}
+
+.footer_top .widget_nav_menu ul li {
+    padding: 0;
+}
+
+.footer_top a:hover {
+    text-decoration: underline;
+}
+
+.wpcf7 form.wpcf7-form p {
+    margin-bottom: 2px;
+}
+
+.footer_top h5 {
+    margin: 0 0 12px;
+}
+
+header .header_top .q_social_icon_holder {
+    width: 29px;
+}
+
+.header-widget.widget_nav_menu ul.menu li a:hover {
+    color: #fff !important;
+    text-decoration: underline;
+}
+
+.header-widget.widget_nav_menu ul.menu li a {
+    padding: 0 0 0 21px;
+}
+
+.header-widget.widget_nav_menu {
+    padding: 0 19px 0 0;
+}
+
+ nav.main_menu>ul>li.active>a>span:not(.plus) {
+position: relative;
+display: inline-block;
+vertical-align: middle;
+padding: 16px 29px 18px;
+border-radius: 1px;
+background-color: #f6f6f6;
+}
+
+header:not(.with_hover_bg_color) nav.main_menu > ul > li:hover > a{
+    opacity: 1;
+}
+
+.carousel-inner .slider_content .text .qbutton {
+    margin: 21px 0 0;
+}
+
+.gallery_holder ul li .gallery_hover {
+    background-color: rgba(40,57,91,.95);
+}
+
+ .qbutton.small .qode_button_icon_element {
+    display: inline-block;
+    vertical-align: middle;
+    margin: -2px 0 0 7px;
+}
+
+.qbutton.small:hover .qode_button_icon_element{
+    color: inherit !important;
+}
+
+.title.title_size_small h1 {
+    text-transform: none;
+}
+
+.widget #searchform {
+    border: 1px solid #e5e5e5;
+}
+
+.widget.widget_search form input[type=text] {
+   padding: 9px 6% 10px;
+    width: 65%;
+}
+
+.widget.widget_search form input[type=submit] {
+    padding: 0 2% 0 0;
+    height: 52px;
+    line-height: 52px;
+}
+
+.qode-ttevents-single-subtitle {
+    color: #b10025;
+    font-size: 13px;
+}
+
+.q_icon_list {
+    margin-bottom: 15px;
+}
+
+aside .widget {
+    margin: 0 0 28px;
+}
+
+.qode-ttevents-single .qode-ttevents-single-image-holder {
+    margin-bottom: 37px;
+}
+
+.qode-ttevents-single .qode-ttevents-single-content {
+    margin-top: 21px;
+}
+
+.tt_timetable .event a, .tt_timetable .event .event_header, table.tt_timetable .event .tt_tooltip_content a {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+}
+
+.qode-ttevents-single .tt_event_hours li p {
+    font-weight: 400;
+    color: #b10025;
+    font-size: 13px;
+    font-family: 'Roboto Slab', serif;
+}
+
+@media only screen and (min-width: 1001px) and (max-width: 1024px) {
+nav.main_menu > ul > li > a {
+    padding: 0 19px;
+}
+}
+
+/*DB Additional CSS */
+
+h2.q_slide_title {
+text-shadow: 0 0 0.3em black;
+}
+
+.title.title_size_large h1 {
+font-size:52px;
+margin-top:.8em;
+}
+
+.breadcrumb {
+    position: absolute;
+    height: 100%;
+    font-size: 13px;
+    top: -52px;
+    left: 0;
+}
+
+@media only screen and (max-width: 1000px) {
+.title {
+    height: 120px!important;
+}
+}
+
+@media only screen and (max-width: 480px) {
+.title.title_size_large h1 {
+    font-size: 32px!important;
+}
+}
+
+@media only screen and (max-width: 600px) {
+.title.title_size_large h1 {
+    font-size: 32px!important;
+    line-height: 35px!important;
+}
+}
+
+p {
+  margin-bottom:18px;
+}
+
+@media only screen and (max-width: 600px) {
+.carousel-inner .slider_content_outer {
+  width: 90%;
+  top:-58px;
+}
+}
+
+h2 {
+margin-bottom: 30px;
+}
+
+h3, h4 {
+margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 18px!important;
+}
+
+@media only screen and (min-width: 1001px) and (max-width: 1065px) {
+  nav.main_menu {
+      top: 25%;
+    }
+  nav.main_menu > ul > li > a {
+        font-size:16px;
+    }
+}
+
+@media only screen and (min-width: 1066px) and (max-width: 1496px) {
+  nav.main_menu > ul > li > a {
+    font-size:16px!important;
+      }
+
+    .header_bottom.clearfix {
+    height: 200px;
+}
+}
+
+@media only screen and (min-width: 1066px) and (max-width: 1358px) {
+nav.main_menu {
+    top: 40%;
+  }
+}
+
+@media only screen and (max-width: 1037px) {
+.mobile_menu_button {
+    display: table;
+}
+}
+
+@media only screen and (max-width: 1037px) {
+.main_menu {
+    display: none!important;
+}
+nav.mobile_menu {
+    display: block;
+}
+nav.mobile_menu>ul {
+    width: 768px;
+    margin: 0 auto;
+}
+}
+.footer_top .widget.widget_nav_menu li {
+margin-bottom:0!important;
+}
+
+ol {
+	margin-left: 2em;
+}
+
+.drop_down .second .inner {
+	left: 24px;
+	top: -30px;
+}
+
+li.narrow .second .inner ul {
+	padding-top: .4em;
+	padding-bottom: 0;
+	text-align: center;
+}
