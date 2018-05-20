@@ -441,3 +441,7 @@ p.latest_post_two_excerpt {
 span.date.entry_date.updated {
     display: none;
 }
+
+a.qbutton.small.default {
+    background-color: rgba(0,0,0,0.0)!important;
+}
