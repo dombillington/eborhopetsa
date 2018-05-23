@@ -445,3 +445,44 @@ span.date.entry_date.updated {
 a.qbutton.small.default {
     background-color: rgba(0,0,0,0.0)!important;
 }
+
+.carousel-inner .slider_content .text .qbutton:not(.white) {
+    color: #ffffff !important;
+    background-color: rgba(0,0,0,0)!important;
+    border: 4px solid;
+    border-radius: 0 0 20px 0;
+}
+
+.carousel-inner .slider_content .text .qbutton:not(.white):hover {
+  background-color: #011A5D!important;
+}
+
+i.qode_icon_font_awesome.fa.fa-arrow-circle-right.qode_button_icon_element, i.qode_icon_font_awesome.fa.fa-arrow-circle-o-right.qode_button_icon_element {
+    color: #00afce!important;
+}
+
+a.qbutton.small.default {
+    color: #00afce!important;
+}
+
+i.qode_icon_font_awesome.fa.fa-arrow-circle-right.qode_button_icon_element:hover, i.qode_icon_font_awesome.fa.fa-arrow-circle-o-right.qode_button_icon_element:hover {
+    color: #3B3B3B!important;
+}
+
+a.qbutton.small.default:hover {
+    color: #3B3B3B!important;
+}
+
+span.qode_icon_font_elegant.social_facebook, span.qode_icon_font_elegant.social_twitter {
+  background-color:#00afce!important;
+}
+
+span.qode_icon_font_elegant.social_facebook:hover, span.qode_icon_font_elegant.social_twitter:hover {
+  background-color:#3B3B3B!important;
+}
+
+a#apply-button, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]), .qbutton, .qbutton.medium {
+    border-radius: 0 0 20px 0;
+}
+
+
