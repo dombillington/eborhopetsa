@@ -182,6 +182,12 @@ nav.main_menu > ul > li > a {
 
 /*DB Additional CSS */
 
+@media only screen and (min-width: 1566px) {
+ .q_logo {
+    left:86px!important;
+  }
+}
+
 h2.q_slide_title {
 text-shadow: 0 0 0.3em black;
 }
