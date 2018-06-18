@@ -399,17 +399,42 @@ li.active .second .inner {
   }
 }
 
-@media only screen and (min-width: 1117px) and (max-width: 1209px) {
-  nav.main_menu > ul > li > a {
-    margin-top: 3.7em;
-    font-size: 17px;
+@media only screen and (min-width: 1117px) and (max-width: 1232px) {
+  .q_logo img
+  {
+    height:auto!important;
+    max-width:150px;
   }
 }
 
-@media only screen and (min-width: 1210px) and (max-width: 1459px) {
-  nav.main_menu.right {
+@media only screen and (min-width: 1118px) and (max-width: 1158px) {
+  .q_logo img
+  {
+    height:auto!important;
+    max-width:150px;
+    left:-30px;
+  }
+}
+ 
+@media only screen and (min-width: 1117px) and (max-width: 1209px) {
+  nav.main_menu > ul > li > a {
+    margin-top: 3.7em;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 1118px) and (max-width: 1304px) {
+  nav.main_menu.right, nav.main_menu > ul > li > a {
+      font-size:16px;
+      margin-top: 0;
+      padding-right: 1em;
+  }
+}
+
+@media only screen and (min-width: 1305px) and (max-width: 1459px) {
+  nav.main_menu.right, nav.main_menu > ul > li > a {
       font-size:18px;
-      margin-top: 3.7em;
+      margin-top: 0;
   }
 }
 
